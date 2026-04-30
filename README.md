@@ -10,3 +10,8 @@ For example: http://127.0.0.1:PORT/year/2005
 
 To display water data for a specific location and year, enter http://127.0.0.1:PORT/LOCATION/YEAR
 For example: http://127.0.0.1:PORT/France/2015
+
+To Run Individual Tests: 
+run: 
+python -m unittest discover -s Tests
+
