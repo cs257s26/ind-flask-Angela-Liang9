@@ -3,8 +3,8 @@ import argparse
 
 waterRegions = []
 waterCountries = []
-COUNTRYFILENAME = "ProductionCode/Water_country.csv"
-REGIONFILENAME = "ProductionCode/Water_region.csv"
+COUNTRYFILENAME = "Data/Water_country.csv"
+REGIONFILENAME = "Data/Water_region.csv"
 
 def main():
 	""" When you run this program, you'll pass in arguments like so:
