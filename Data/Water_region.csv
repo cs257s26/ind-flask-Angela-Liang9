@@ -2,31 +2,31 @@
 ,,,RURAL,,URBAN,,TOTAL,
 "COUNTRY, AREA OR TERRITORY",Year,"Population 
 (thousands)",Available when needed,Free from contamination,Available when needed,Free from contamination,Available when needed,Free from contamination
-Australia and New Zealand,2000,   22 990,NULL,NULL,NULL,100,90,NULL
-Australia and New Zealand,2001,   23 257,NULL,NULL,NULL,100,91,NULL
-Australia and New Zealand,2002,   23 546,NULL,NULL,NULL,100,91,NULL
-Australia and New Zealand,2003,   23 842,NULL,NULL,NULL,100,92,NULL
-Australia and New Zealand,2004,   24 131,NULL,NULL,NULL,100,92,NULL
-Australia and New Zealand,2005,   24 429,NULL,NULL,NULL,100,93,NULL
-Australia and New Zealand,2006,   24 772,NULL,NULL,NULL,100,93,NULL
-Australia and New Zealand,2007,   25 178,NULL,NULL,NULL,100,94,NULL
-Australia and New Zealand,2008,   25 632,NULL,NULL,NULL,100,94,NULL
-Australia and New Zealand,2009,   26 087,NULL,NULL,NULL,100,94,NULL
-Australia and New Zealand,2010,   26 489,NULL,NULL,NULL,100,95,NULL
-Australia and New Zealand,2011,   26 862,NULL,NULL,NULL,100,95,NULL
-Australia and New Zealand,2012,   27 264,NULL,NULL,NULL,100,96,NULL
-Australia and New Zealand,2013,   27 690,NULL,NULL,NULL,100,96,NULL
-Australia and New Zealand,2014,   28 119,NULL,NULL,NULL,100,96,NULL
-Australia and New Zealand,2015,   28 562,NULL,NULL,NULL,100,96,NULL
-Australia and New Zealand,2016,   29 045,NULL,NULL,NULL,100,96,NULL
-Australia and New Zealand,2017,   29 544,NULL,NULL,NULL,100,96,NULL
-Australia and New Zealand,2018,   30 021,NULL,NULL,NULL,100,96,NULL
-Australia and New Zealand,2019,   30 472,NULL,NULL,NULL,100,96,NULL
-Australia and New Zealand,2020,   30 814,NULL,NULL,NULL,100,96,NULL
-Australia and New Zealand,2021,   31 064,NULL,NULL,NULL,100,96,NULL
-Australia and New Zealand,2022,   31 333,NULL,NULL,NULL,100,96,NULL
-Australia and New Zealand,2023,   31 624,NULL,NULL,NULL,100,96,NULL
-Australia and New Zealand,2024,   31 927,NULL,NULL,NULL,100,96,NULL
+Australia and New Zealand,2000,   22 990,,,,100,90,
+Australia and New Zealand,2001,   23 257,,,,100,91,
+Australia and New Zealand,2002,   23 546,,,,100,91,
+Australia and New Zealand,2003,   23 842,,,,100,92,
+Australia and New Zealand,2004,   24 131,,,,100,92,
+Australia and New Zealand,2005,   24 429,,,,100,93,
+Australia and New Zealand,2006,   24 772,,,,100,93,
+Australia and New Zealand,2007,   25 178,,,,100,94,
+Australia and New Zealand,2008,   25 632,,,,100,94,
+Australia and New Zealand,2009,   26 087,,,,100,94,
+Australia and New Zealand,2010,   26 489,,,,100,95,
+Australia and New Zealand,2011,   26 862,,,,100,95,
+Australia and New Zealand,2012,   27 264,,,,100,96,
+Australia and New Zealand,2013,   27 690,,,,100,96,
+Australia and New Zealand,2014,   28 119,,,,100,96,
+Australia and New Zealand,2015,   28 562,,,,100,96,
+Australia and New Zealand,2016,   29 045,,,,100,96,
+Australia and New Zealand,2017,   29 544,,,,100,96,
+Australia and New Zealand,2018,   30 021,,,,100,96,
+Australia and New Zealand,2019,   30 472,,,,100,96,
+Australia and New Zealand,2020,   30 814,,,,100,96,
+Australia and New Zealand,2021,   31 064,,,,100,96,
+Australia and New Zealand,2022,   31 333,,,,100,96,
+Australia and New Zealand,2023,   31 624,,,,100,96,
+Australia and New Zealand,2024,   31 927,,,,100,96,
 Central and Southern Asia,2000,1 534 794,66,47,87,83,72,58
 Central and Southern Asia,2001,1 563 977,67,48,87,83,73,58
 Central and Southern Asia,2002,1 592 671,67,48,87,83,73,59
@@ -52,36 +52,36 @@ Central and Southern Asia,2021,2 081 130,82,72,85,85,83,77
 Central and Southern Asia,2022,2 101 809,83,74,85,86,83,78
 Central and Southern Asia,2023,2 123 893,83,76,85,86,84,80
 Central and Southern Asia,2024,2 146 282,84,78,85,86,84,81
-Eastern and SouthNULLEastern Asia,2000,2 025 350,65,NULL,94,81,77,69
-Eastern and SouthNULLEastern Asia,2001,2 043 034,66,NULL,94,81,77,69
-Eastern and SouthNULLEastern Asia,2002,2 060 302,66,NULL,94,81,78,70
-Eastern and SouthNULLEastern Asia,2003,2 076 016,67,NULL,94,81,79,71
-Eastern and SouthNULLEastern Asia,2004,2 091 446,68,NULL,94,81,80,71
-Eastern and SouthNULLEastern Asia,2005,2 107 133,69,NULL,94,81,81,72
-Eastern and SouthNULLEastern Asia,2006,2 123 271,70,NULL,94,81,81,72
-Eastern and SouthNULLEastern Asia,2007,2 139 701,71,NULL,94,81,82,73
-Eastern and SouthNULLEastern Asia,2008,2 156 408,72,NULL,94,81,83,74
-Eastern and SouthNULLEastern Asia,2009,2 173 485,73,NULL,94,81,83,74
-Eastern and SouthNULLEastern Asia,2010,2 190 840,74,NULL,94,81,84,75
-Eastern and SouthNULLEastern Asia,2011,2 207 927,75,NULL,94,81,85,75
-Eastern and SouthNULLEastern Asia,2012,2 225 809,76,NULL,94,82,86,76
-Eastern and SouthNULLEastern Asia,2013,2 243 785,77,NULL,94,82,86,76
-Eastern and SouthNULLEastern Asia,2014,2 260 819,78,NULL,95,82,87,76
-Eastern and SouthNULLEastern Asia,2015,2 276 839,79,43,95,83,88,65
-Eastern and SouthNULLEastern Asia,2016,2 292 382,80,43,95,83,89,66
-Eastern and SouthNULLEastern Asia,2017,2 307 986,82,44,95,83,89,67
-Eastern and SouthNULLEastern Asia,2018,2 321 416,83,44,95,84,90,67
-Eastern and SouthNULLEastern Asia,2019,2 332 292,84,45,95,84,91,68
-Eastern and SouthNULLEastern Asia,2020,2 340 521,85,45,96,84,91,69
-Eastern and SouthNULLEastern Asia,2021,2 345 241,86,45,96,84,92,69
-Eastern and SouthNULLEastern Asia,2022,2 348 163,87,46,96,85,93,70
-Eastern and SouthNULLEastern Asia,2023,2 350 146,88,46,96,85,93,71
-Eastern and SouthNULLEastern Asia,2024,2 351 265,88,58,96,85,93,75
-Europe and Northern America,2000,1 038 228,NULL,83,96,98,NULL,94
-Europe and Northern America,2001,1 041 401,NULL,83,96,98,NULL,94
-Europe and Northern America,2002,1 045 408,NULL,82,96,98,NULL,94
-Europe and Northern America,2003,1 049 786,NULL,82,96,98,NULL,94
-Europe and Northern America,2004,1 053 834,NULL,82,96,98,NULL,94
+Eastern and SouthEastern Asia,2000,2 025 350,65,,94,81,77,69
+Eastern and SouthEastern Asia,2001,2 043 034,66,,94,81,77,69
+Eastern and SouthEastern Asia,2002,2 060 302,66,,94,81,78,70
+Eastern and SouthEastern Asia,2003,2 076 016,67,,94,81,79,71
+Eastern and SouthEastern Asia,2004,2 091 446,68,,94,81,80,71
+Eastern and SouthEastern Asia,2005,2 107 133,69,,94,81,81,72
+Eastern and SouthEastern Asia,2006,2 123 271,70,,94,81,81,72
+Eastern and SouthEastern Asia,2007,2 139 701,71,,94,81,82,73
+Eastern and SouthEastern Asia,2008,2 156 408,72,,94,81,83,74
+Eastern and SouthEastern Asia,2009,2 173 485,73,,94,81,83,74
+Eastern and SouthEastern Asia,2010,2 190 840,74,,94,81,84,75
+Eastern and SouthEastern Asia,2011,2 207 927,75,,94,81,85,75
+Eastern and SouthEastern Asia,2012,2 225 809,76,,94,82,86,76
+Eastern and SouthEastern Asia,2013,2 243 785,77,,94,82,86,76
+Eastern and SouthEastern Asia,2014,2 260 819,78,,95,82,87,76
+Eastern and SouthEastern Asia,2015,2 276 839,79,43,95,83,88,65
+Eastern and SouthEastern Asia,2016,2 292 382,80,43,95,83,89,66
+Eastern and SouthEastern Asia,2017,2 307 986,82,44,95,83,89,67
+Eastern and SouthEastern Asia,2018,2 321 416,83,44,95,84,90,67
+Eastern and SouthEastern Asia,2019,2 332 292,84,45,95,84,91,68
+Eastern and SouthEastern Asia,2020,2 340 521,85,45,96,84,91,69
+Eastern and SouthEastern Asia,2021,2 345 241,86,45,96,84,92,69
+Eastern and SouthEastern Asia,2022,2 348 163,87,46,96,85,93,70
+Eastern and SouthEastern Asia,2023,2 350 146,88,46,96,85,93,71
+Eastern and SouthEastern Asia,2024,2 351 265,88,58,96,85,93,75
+Europe and Northern America,2000,1 038 228,,83,96,98,,94
+Europe and Northern America,2001,1 041 401,,83,96,98,,94
+Europe and Northern America,2002,1 045 408,,82,96,98,,94
+Europe and Northern America,2003,1 049 786,,82,96,98,,94
+Europe and Northern America,2004,1 053 834,,82,96,98,,94
 Europe and Northern America,2005,1 057 877,89,82,96,98,95,94
 Europe and Northern America,2006,1 062 486,90,82,96,98,95,94
 Europe and Northern America,2007,1 067 151,90,82,96,98,95,94
@@ -127,81 +127,81 @@ Latin America and the Caribbean,2021,  650 465,71,51,85,83,83,77
 Latin America and the Caribbean,2022,  654 367,72,51,86,83,83,77
 Latin America and the Caribbean,2023,  658 892,73,52,86,84,84,78
 Latin America and the Caribbean,2024,  663 466,74,52,86,84,84,78
-Northern Africa and Western Asia,2000,  362 460,55,NULL,75,80,66,74
-Northern Africa and Western Asia,2001,  369 968,55,NULL,75,80,67,74
-Northern Africa and Western Asia,2002,  377 563,56,NULL,75,80,67,74
-Northern Africa and Western Asia,2003,  385 181,56,NULL,75,80,67,74
-Northern Africa and Western Asia,2004,  392 909,57,NULL,76,80,67,74
-Northern Africa and Western Asia,2005,  400 956,57,NULL,76,80,68,75
-Northern Africa and Western Asia,2006,  409 344,58,NULL,76,80,69,75
-Northern Africa and Western Asia,2007,  418 225,59,NULL,77,80,69,76
-Northern Africa and Western Asia,2008,  427 531,59,NULL,77,81,70,76
-Northern Africa and Western Asia,2009,  436 888,60,NULL,78,81,70,77
-Northern Africa and Western Asia,2010,  446 081,60,NULL,78,81,71,77
-Northern Africa and Western Asia,2011,  455 432,61,NULL,78,81,71,77
-Northern Africa and Western Asia,2012,  465 277,61,NULL,79,81,72,78
-Northern Africa and Western Asia,2013,  475 599,62,NULL,79,80,72,78
-Northern Africa and Western Asia,2014,  486 457,62,NULL,79,81,72,78
-Northern Africa and Western Asia,2015,  497 571,63,NULL,79,81,73,79
-Northern Africa and Western Asia,2016,  508 025,63,NULL,79,81,73,79
-Northern Africa and Western Asia,2017,  517 512,63,NULL,80,81,73,80
-Northern Africa and Western Asia,2018,  526 457,64,NULL,80,80,74,80
-Northern Africa and Western Asia,2019,  535 333,64,NULL,80,80,74,80
-Northern Africa and Western Asia,2020,  543 949,65,NULL,80,80,75,81
-Northern Africa and Western Asia,2021,  552 427,65,NULL,80,80,75,81
-Northern Africa and Western Asia,2022,  562 409,66,NULL,81,80,75,81
-Northern Africa and Western Asia,2023,  572 507,67,NULL,81,80,76,82
-Northern Africa and Western Asia,2024,  581 482,67,NULL,81,80,76,82
-Oceania,2000,    8 363,23,NULL,54,NULL,30,NULL
-Oceania,2001,    8 590,23,NULL,54,NULL,30,NULL
-Oceania,2002,    8 819,23,NULL,54,NULL,30,NULL
-Oceania,2003,    9 052,23,NULL,54,NULL,30,NULL
-Oceania,2004,    9 288,22,NULL,53,NULL,30,NULL
-Oceania,2005,    9 526,23,NULL,53,NULL,30,NULL
-Oceania,2006,    9 768,23,NULL,53,NULL,30,NULL
-Oceania,2007,   10 012,24,NULL,53,NULL,31,NULL
-Oceania,2008,   10 258,24,NULL,53,NULL,31,NULL
-Oceania,2009,   10 506,25,NULL,53,NULL,31,NULL
-Oceania,2010,   10 764,26,NULL,53,NULL,32,NULL
-Oceania,2011,   11 027,26,NULL,53,NULL,32,NULL
-Oceania,2012,   11 286,27,NULL,53,NULL,33,NULL
-Oceania,2013,   11 543,27,NULL,53,NULL,33,NULL
-Oceania,2014,   11 800,28,NULL,53,NULL,34,NULL
-Oceania,2015,   12 053,29,NULL,53,NULL,34,NULL
-Oceania,2016,   12 302,29,NULL,53,NULL,35,NULL
-Oceania,2017,   12 550,30,NULL,53,NULL,35,NULL
-Oceania,2018,   12 795,31,NULL,53,NULL,36,NULL
-Oceania,2019,   13 032,32,NULL,53,NULL,36,NULL
-Oceania,2020,   13 265,32,NULL,52,NULL,37,NULL
-Oceania,2021,   13 494,33,NULL,52,NULL,37,NULL
-Oceania,2022,   13 717,34,NULL,52,NULL,38,NULL
-Oceania,2023,   13 939,35,NULL,52,NULL,39,NULL
-Oceania,2024,   14 162,35,NULL,52,NULL,39,NULL
-SubNULLSaharan Africa,2000,  648 981,26,16,64,51,38,27
-SubNULLSaharan Africa,2001,  666 509,27,17,64,51,39,28
-SubNULLSaharan Africa,2002,  684 619,28,17,64,51,40,28
-SubNULLSaharan Africa,2003,  703 331,29,17,64,51,40,29
-SubNULLSaharan Africa,2004,  722 702,30,18,64,51,41,29
-SubNULLSaharan Africa,2005,  742 672,31,18,64,51,42,29
-SubNULLSaharan Africa,2006,  763 189,32,18,65,51,43,30
-SubNULLSaharan Africa,2007,  784 338,33,19,65,51,44,30
-SubNULLSaharan Africa,2008,  806 176,34,19,65,51,45,30
-SubNULLSaharan Africa,2009,  828 530,35,19,65,51,46,31
-SubNULLSaharan Africa,2010,  851 531,36,20,65,51,47,31
-SubNULLSaharan Africa,2011,  885 444,37,20,65,51,47,32
-SubNULLSaharan Africa,2012,  910 128,38,20,66,51,48,32
-SubNULLSaharan Africa,2013,  935 556,39,21,66,51,49,32
-SubNULLSaharan Africa,2014,  961 284,40,21,66,52,50,33
-SubNULLSaharan Africa,2015,  987 406,42,21,66,52,51,33
-SubNULLSaharan Africa,2016,1 013 769,43,22,66,52,52,33
-SubNULLSaharan Africa,2017,1 040 454,44,22,66,51,53,34
-SubNULLSaharan Africa,2018,1 068 012,45,22,66,51,53,34
-SubNULLSaharan Africa,2019,1 096 034,46,22,66,51,54,34
-SubNULLSaharan Africa,2020,1 124 522,47,23,65,52,55,35
-SubNULLSaharan Africa,2021,1 153 271,48,23,65,52,55,35
-SubNULLSaharan Africa,2022,1 182 164,49,23,65,52,56,35
-SubNULLSaharan Africa,2023,1 212 229,51,24,65,52,57,36
-SubNULLSaharan Africa,2024,1 243 010,52,24,65,52,57,36
+Northern Africa and Western Asia,2000,  362 460,55,,75,80,66,74
+Northern Africa and Western Asia,2001,  369 968,55,,75,80,67,74
+Northern Africa and Western Asia,2002,  377 563,56,,75,80,67,74
+Northern Africa and Western Asia,2003,  385 181,56,,75,80,67,74
+Northern Africa and Western Asia,2004,  392 909,57,,76,80,67,74
+Northern Africa and Western Asia,2005,  400 956,57,,76,80,68,75
+Northern Africa and Western Asia,2006,  409 344,58,,76,80,69,75
+Northern Africa and Western Asia,2007,  418 225,59,,77,80,69,76
+Northern Africa and Western Asia,2008,  427 531,59,,77,81,70,76
+Northern Africa and Western Asia,2009,  436 888,60,,78,81,70,77
+Northern Africa and Western Asia,2010,  446 081,60,,78,81,71,77
+Northern Africa and Western Asia,2011,  455 432,61,,78,81,71,77
+Northern Africa and Western Asia,2012,  465 277,61,,79,81,72,78
+Northern Africa and Western Asia,2013,  475 599,62,,79,80,72,78
+Northern Africa and Western Asia,2014,  486 457,62,,79,81,72,78
+Northern Africa and Western Asia,2015,  497 571,63,,79,81,73,79
+Northern Africa and Western Asia,2016,  508 025,63,,79,81,73,79
+Northern Africa and Western Asia,2017,  517 512,63,,80,81,73,80
+Northern Africa and Western Asia,2018,  526 457,64,,80,80,74,80
+Northern Africa and Western Asia,2019,  535 333,64,,80,80,74,80
+Northern Africa and Western Asia,2020,  543 949,65,,80,80,75,81
+Northern Africa and Western Asia,2021,  552 427,65,,80,80,75,81
+Northern Africa and Western Asia,2022,  562 409,66,,81,80,75,81
+Northern Africa and Western Asia,2023,  572 507,67,,81,80,76,82
+Northern Africa and Western Asia,2024,  581 482,67,,81,80,76,82
+Oceania,2000,    8 363,23,,54,,30,
+Oceania,2001,    8 590,23,,54,,30,
+Oceania,2002,    8 819,23,,54,,30,
+Oceania,2003,    9 052,23,,54,,30,
+Oceania,2004,    9 288,22,,53,,30,
+Oceania,2005,    9 526,23,,53,,30,
+Oceania,2006,    9 768,23,,53,,30,
+Oceania,2007,   10 012,24,,53,,31,
+Oceania,2008,   10 258,24,,53,,31,
+Oceania,2009,   10 506,25,,53,,31,
+Oceania,2010,   10 764,26,,53,,32,
+Oceania,2011,   11 027,26,,53,,32,
+Oceania,2012,   11 286,27,,53,,33,
+Oceania,2013,   11 543,27,,53,,33,
+Oceania,2014,   11 800,28,,53,,34,
+Oceania,2015,   12 053,29,,53,,34,
+Oceania,2016,   12 302,29,,53,,35,
+Oceania,2017,   12 550,30,,53,,35,
+Oceania,2018,   12 795,31,,53,,36,
+Oceania,2019,   13 032,32,,53,,36,
+Oceania,2020,   13 265,32,,52,,37,
+Oceania,2021,   13 494,33,,52,,37,
+Oceania,2022,   13 717,34,,52,,38,
+Oceania,2023,   13 939,35,,52,,39,
+Oceania,2024,   14 162,35,,52,,39,
+SubSaharan Africa,2000,  648 981,26,16,64,51,38,27
+SubSaharan Africa,2001,  666 509,27,17,64,51,39,28
+SubSaharan Africa,2002,  684 619,28,17,64,51,40,28
+SubSaharan Africa,2003,  703 331,29,17,64,51,40,29
+SubSaharan Africa,2004,  722 702,30,18,64,51,41,29
+SubSaharan Africa,2005,  742 672,31,18,64,51,42,29
+SubSaharan Africa,2006,  763 189,32,18,65,51,43,30
+SubSaharan Africa,2007,  784 338,33,19,65,51,44,30
+SubSaharan Africa,2008,  806 176,34,19,65,51,45,30
+SubSaharan Africa,2009,  828 530,35,19,65,51,46,31
+SubSaharan Africa,2010,  851 531,36,20,65,51,47,31
+SubSaharan Africa,2011,  885 444,37,20,65,51,47,32
+SubSaharan Africa,2012,  910 128,38,20,66,51,48,32
+SubSaharan Africa,2013,  935 556,39,21,66,51,49,32
+SubSaharan Africa,2014,  961 284,40,21,66,52,50,33
+SubSaharan Africa,2015,  987 406,42,21,66,52,51,33
+SubSaharan Africa,2016,1 013 769,43,22,66,52,52,33
+SubSaharan Africa,2017,1 040 454,44,22,66,51,53,34
+SubSaharan Africa,2018,1 068 012,45,22,66,51,53,34
+SubSaharan Africa,2019,1 096 034,46,22,66,51,54,34
+SubSaharan Africa,2020,1 124 522,47,23,65,52,55,35
+SubSaharan Africa,2021,1 153 271,48,23,65,52,55,35
+SubSaharan Africa,2022,1 182 164,49,23,65,52,56,35
+SubSaharan Africa,2023,1 212 229,51,24,65,52,57,36
+SubSaharan Africa,2024,1 243 010,52,24,65,52,57,36
 Landlocked developing countries,2000,  332 025,37,24,73,65,47,35
 Landlocked developing countries,2001,  338 855,38,24,73,65,47,35
 Landlocked developing countries,2002,  346 925,39,24,73,64,48,35
@@ -252,31 +252,31 @@ Least developed countries,2021,1 109 175,56,31,68,53,60,38
 Least developed countries,2022,1 134 586,57,31,68,53,61,39
 Least developed countries,2023,1 160 825,58,31,68,53,62,39
 Least developed countries,2024,1 187 778,59,31,68,53,62,39
-Small island developing States,2000,   55 126,46,NULL,81,55,66,53
-Small island developing States,2001,   55 872,46,NULL,81,55,66,54
-Small island developing States,2002,   57 442,46,NULL,80,55,66,53
-Small island developing States,2003,   58 129,46,NULL,80,55,66,53
-Small island developing States,2004,   58 824,46,NULL,80,55,66,53
-Small island developing States,2005,   59 575,47,NULL,80,58,66,55
-Small island developing States,2006,   60 374,47,NULL,80,59,66,55
-Small island developing States,2007,   61 222,48,NULL,80,59,67,55
-Small island developing States,2008,   62 092,48,NULL,80,59,67,56
-Small island developing States,2009,   62 919,49,NULL,81,59,68,56
-Small island developing States,2010,   63 653,50,NULL,81,59,68,56
-Small island developing States,2011,   64 378,50,NULL,81,59,69,56
-Small island developing States,2012,   65 142,51,NULL,81,59,69,56
-Small island developing States,2013,   65 877,52,NULL,82,59,70,56
-Small island developing States,2014,   66 577,52,NULL,82,59,70,56
-Small island developing States,2015,   67 260,53,NULL,82,59,70,57
-Small island developing States,2016,   67 915,53,NULL,82,59,71,57
-Small island developing States,2017,   68 467,54,NULL,83,59,71,57
-Small island developing States,2018,   69 085,55,NULL,83,59,72,57
-Small island developing States,2019,   69 747,55,NULL,83,59,72,57
-Small island developing States,2020,   70 264,56,NULL,83,59,73,57
-Small island developing States,2021,   70 727,56,NULL,84,58,73,57
-Small island developing States,2022,   71 343,57,NULL,84,59,73,57
-Small island developing States,2023,   72 018,57,NULL,84,59,73,57
-Small island developing States,2024,   72 589,58,NULL,83,59,74,57
+Small island developing States,2000,   55 126,46,,81,55,66,53
+Small island developing States,2001,   55 872,46,,81,55,66,54
+Small island developing States,2002,   57 442,46,,80,55,66,53
+Small island developing States,2003,   58 129,46,,80,55,66,53
+Small island developing States,2004,   58 824,46,,80,55,66,53
+Small island developing States,2005,   59 575,47,,80,58,66,55
+Small island developing States,2006,   60 374,47,,80,59,66,55
+Small island developing States,2007,   61 222,48,,80,59,67,55
+Small island developing States,2008,   62 092,48,,80,59,67,56
+Small island developing States,2009,   62 919,49,,81,59,68,56
+Small island developing States,2010,   63 653,50,,81,59,68,56
+Small island developing States,2011,   64 378,50,,81,59,69,56
+Small island developing States,2012,   65 142,51,,81,59,69,56
+Small island developing States,2013,   65 877,52,,82,59,70,56
+Small island developing States,2014,   66 577,52,,82,59,70,56
+Small island developing States,2015,   67 260,53,,82,59,70,57
+Small island developing States,2016,   67 915,53,,82,59,71,57
+Small island developing States,2017,   68 467,54,,83,59,71,57
+Small island developing States,2018,   69 085,55,,83,59,72,57
+Small island developing States,2019,   69 747,55,,83,59,72,57
+Small island developing States,2020,   70 264,56,,83,59,73,57
+Small island developing States,2021,   70 727,56,,84,58,73,57
+Small island developing States,2022,   71 343,57,,84,59,73,57
+Small island developing States,2023,   72 018,57,,84,59,73,57
+Small island developing States,2024,   72 589,58,,83,59,74,57
 Fragile contexts,2000,1 177 847,45,29,72,57,54,39
 Fragile contexts,2001,1 206 674,46,30,72,57,55,39
 Fragile contexts,2002,1 236 750,46,30,72,57,55,39
@@ -302,131 +302,131 @@ Fragile contexts,2021,1 902 926,60,34,73,57,66,44
 Fragile contexts,2022,1 942 903,60,35,73,57,66,45
 Fragile contexts,2023,1 984 166,61,35,73,57,66,45
 Fragile contexts,2024,2 025 984,62,35,73,57,67,45
-Low and middleNULLincome,2000,4 908 027,59,39,85,77,69,54
-Low and middleNULLincome,2001,4 984 040,59,39,85,77,70,54
-Low and middleNULLincome,2002,5 059 741,60,39,85,77,70,54
-Low and middleNULLincome,2003,5 134 268,61,40,85,77,71,55
-Low and middleNULLincome,2004,5 209 533,61,40,85,77,71,55
-Low and middleNULLincome,2005,5 285 217,62,40,85,77,72,56
-Low and middleNULLincome,2006,5 362 213,63,41,85,77,72,56
-Low and middleNULLincome,2007,5 438 769,64,41,85,77,73,57
-Low and middleNULLincome,2008,5 515 978,64,41,85,77,73,57
-Low and middleNULLincome,2009,5 595 139,65,42,85,77,74,58
-Low and middleNULLincome,2010,5 675 456,66,43,85,77,75,59
-Low and middleNULLincome,2011,5 765 997,66,44,85,77,75,59
-Low and middleNULLincome,2012,5 847 780,67,45,85,78,76,60
-Low and middleNULLincome,2013,5 930 138,68,46,85,78,76,61
-Low and middleNULLincome,2014,6 011 577,69,47,85,78,77,61
-Low and middleNULLincome,2015,6 091 556,70,47,85,78,77,62
-Low and middleNULLincome,2016,6 170 919,70,48,86,78,78,63
-Low and middleNULLincome,2017,6 251 050,71,49,86,78,78,64
-Low and middleNULLincome,2018,6 330 087,72,50,86,78,79,64
-Low and middleNULLincome,2019,6 406 420,73,51,86,79,79,65
-Low and middleNULLincome,2020,6 479 125,74,52,86,79,80,66
-Low and middleNULLincome,2021,6 545 471,75,53,86,79,80,66
-Low and middleNULLincome,2022,6 607 116,75,54,86,79,81,67
-Low and middleNULLincome,2023,6 670 598,76,55,86,79,81,67
-Low and middleNULLincome,2024,6 737 263,77,59,86,79,81,69
-LowNULLincome,2000,  384 047,28,18,64,56,38,28
-LowNULLincome,2001,  394 449,28,18,64,56,38,29
-LowNULLincome,2002,  406 074,29,18,64,56,39,29
-LowNULLincome,2003,  418 174,30,19,64,56,40,29
-LowNULLincome,2004,  430 150,31,19,64,56,41,30
-LowNULLincome,2005,  442 566,32,20,64,56,41,30
-LowNULLincome,2006,  455 768,33,20,64,56,42,30
-LowNULLincome,2007,  469 163,34,20,64,56,43,31
-LowNULLincome,2008,  482 589,36,21,64,56,44,31
-LowNULLincome,2009,  496 341,37,21,64,56,45,32
-LowNULLincome,2010,  510 308,38,22,64,56,46,32
-LowNULLincome,2011,  534 809,39,22,64,56,47,32
-LowNULLincome,2012,  549 452,40,22,64,56,48,33
-LowNULLincome,2013,  563 527,41,23,64,56,48,33
-LowNULLincome,2014,  577 586,42,23,64,56,49,33
-LowNULLincome,2015,  592 175,43,23,65,56,50,34
-LowNULLincome,2016,  607 867,44,24,65,56,51,34
-LowNULLincome,2017,  624 557,46,24,65,56,52,34
-LowNULLincome,2018,  642 186,47,25,65,56,53,35
-LowNULLincome,2019,  660 718,48,25,66,56,54,35
-LowNULLincome,2020,  679 561,49,25,66,56,55,36
-LowNULLincome,2021,  698 215,50,26,66,56,56,36
-LowNULLincome,2022,  716 866,52,26,67,56,57,37
-LowNULLincome,2023,  736 466,53,27,67,56,58,37
-LowNULLincome,2024,  756 668,54,27,67,57,59,38
-LowerNULLmiddleNULLincome,2000,2 124 987,60,41,81,74,66,51
-LowerNULLmiddleNULLincome,2001,2 167 820,61,42,81,74,67,52
-LowerNULLmiddleNULLincome,2002,2 210 684,61,42,81,74,68,52
-LowerNULLmiddleNULLincome,2003,2 252 307,62,43,81,74,68,53
-LowerNULLmiddleNULLincome,2004,2 294 336,63,43,81,74,69,53
-LowerNULLmiddleNULLincome,2005,2 335 938,64,43,81,74,69,53
-LowerNULLmiddleNULLincome,2006,2 377 773,64,44,81,74,70,54
-LowerNULLmiddleNULLincome,2007,2 420 499,65,44,81,74,71,54
-LowerNULLmiddleNULLincome,2008,2 462 942,66,44,82,74,71,54
-LowerNULLmiddleNULLincome,2009,2 505 656,67,46,82,74,72,55
-LowerNULLmiddleNULLincome,2010,2 549 113,67,47,82,74,72,56
-LowerNULLmiddleNULLincome,2011,2 592 656,68,48,82,74,73,57
-LowerNULLmiddleNULLincome,2012,2 635 895,69,49,82,74,74,58
-LowerNULLmiddleNULLincome,2013,2 679 307,70,51,82,74,74,59
-LowerNULLmiddleNULLincome,2014,2 722 466,71,52,82,74,75,60
-LowerNULLmiddleNULLincome,2015,2 764 325,71,53,82,74,75,61
-LowerNULLmiddleNULLincome,2016,2 805 768,72,55,82,74,76,62
-LowerNULLmiddleNULLincome,2017,2 846 978,73,56,82,74,76,63
-LowerNULLmiddleNULLincome,2018,2 887 468,74,57,81,74,77,64
-LowerNULLmiddleNULLincome,2019,2 927 475,75,59,81,74,77,65
-LowerNULLmiddleNULLincome,2020,2 967 243,75,60,81,74,78,66
-LowerNULLmiddleNULLincome,2021,3 004 939,76,61,81,74,78,67
-LowerNULLmiddleNULLincome,2022,3 042 100,77,63,81,74,79,67
-LowerNULLmiddleNULLincome,2023,3 080 931,78,64,81,74,79,68
-LowerNULLmiddleNULLincome,2024,3 120 052,78,65,81,74,79,69
-UpperNULLmiddleNULLincome,2000,2 398 992,65,NULL,89,81,77,70
-UpperNULLmiddleNULLincome,2001,2 421 771,65,NULL,89,81,77,70
-UpperNULLmiddleNULLincome,2002,2 442 984,66,NULL,89,81,77,71
-UpperNULLmiddleNULLincome,2003,2 463 787,67,NULL,89,81,78,72
-UpperNULLmiddleNULLincome,2004,2 485 046,67,NULL,89,81,79,72
-UpperNULLmiddleNULLincome,2005,2 506 714,68,NULL,89,81,79,73
-UpperNULLmiddleNULLincome,2006,2 528 672,69,NULL,89,81,80,73
-UpperNULLmiddleNULLincome,2007,2 549 108,70,NULL,89,81,81,74
-UpperNULLmiddleNULLincome,2008,2 570 447,71,NULL,89,81,81,74
-UpperNULLmiddleNULLincome,2009,2 593 141,71,NULL,89,81,82,75
-UpperNULLmiddleNULLincome,2010,2 616 035,72,NULL,89,81,82,75
-UpperNULLmiddleNULLincome,2011,2 638 533,73,NULL,89,82,83,76
-UpperNULLmiddleNULLincome,2012,2 662 434,74,NULL,90,82,83,76
-UpperNULLmiddleNULLincome,2013,2 687 304,75,NULL,90,82,84,77
-UpperNULLmiddleNULLincome,2014,2 711 524,76,NULL,90,83,84,77
-UpperNULLmiddleNULLincome,2015,2 735 055,77,NULL,90,83,85,77
-UpperNULLmiddleNULLincome,2016,2 757 284,78,NULL,90,83,86,78
-UpperNULLmiddleNULLincome,2017,2 779 515,79,NULL,90,83,86,78
-UpperNULLmiddleNULLincome,2018,2 800 433,80,NULL,91,84,87,79
-UpperNULLmiddleNULLincome,2019,2 818 227,81,NULL,91,84,87,79
-UpperNULLmiddleNULLincome,2020,2 832 321,82,NULL,91,84,88,79
-UpperNULLmiddleNULLincome,2021,2 842 317,83,NULL,91,85,88,80
-UpperNULLmiddleNULLincome,2022,2 848 150,84,NULL,91,85,89,80
-UpperNULLmiddleNULLincome,2023,2 853 201,85,51,91,85,89,74
-UpperNULLmiddleNULLincome,2024,2 860 544,85,62,91,85,89,78
-HighNULLincome,2000,1 227 506,NULL,NULL,NULL,96,NULL,96
-HighNULLincome,2001,1 233 882,NULL,NULL,NULL,96,NULL,96
-HighNULLincome,2002,1 241 002,NULL,NULL,NULL,96,NULL,96
-HighNULLincome,2003,1 248 317,NULL,NULL,NULL,96,NULL,96
-HighNULLincome,2004,1 255 266,NULL,NULL,NULL,96,NULL,96
-HighNULLincome,2005,1 262 350,NULL,NULL,NULL,96,94,96
-HighNULLincome,2006,1 269 616,NULL,NULL,NULL,96,94,96
-HighNULLincome,2007,1 278 042,NULL,NULL,NULL,96,94,96
-HighNULLincome,2008,1 287 114,NULL,NULL,NULL,96,95,96
-HighNULLincome,2009,1 295 424,NULL,NULL,NULL,96,95,97
-HighNULLincome,2010,1 303 171,NULL,NULL,96,96,95,97
-HighNULLincome,2011,1 311 164,NULL,NULL,96,96,95,97
-HighNULLincome,2012,1 319 250,NULL,NULL,96,96,95,97
-HighNULLincome,2013,1 327 082,NULL,NULL,96,96,95,97
-HighNULLincome,2014,1 335 091,NULL,NULL,96,96,95,97
-HighNULLincome,2015,1 343 667,NULL,NULL,96,96,95,97
-HighNULLincome,2016,1 352 170,NULL,NULL,96,97,95,97
-HighNULLincome,2017,1 359 271,NULL,NULL,96,97,95,97
-HighNULLincome,2018,1 365 261,NULL,NULL,96,97,96,97
-HighNULLincome,2019,1 371 187,NULL,NULL,96,97,96,97
-HighNULLincome,2020,1 374 663,NULL,NULL,96,97,96,97
-HighNULLincome,2021,1 375 961,NULL,NULL,96,97,96,97
-HighNULLincome,2022,1 381 312,NULL,NULL,96,97,96,97
-HighNULLincome,2023,1 388 068,NULL,NULL,96,97,96,97
-HighNULLincome,2024,1 391 523,NULL,NULL,96,97,96,97
+Low and middleincome,2000,4 908 027,59,39,85,77,69,54
+Low and middleincome,2001,4 984 040,59,39,85,77,70,54
+Low and middleincome,2002,5 059 741,60,39,85,77,70,54
+Low and middleincome,2003,5 134 268,61,40,85,77,71,55
+Low and middleincome,2004,5 209 533,61,40,85,77,71,55
+Low and middleincome,2005,5 285 217,62,40,85,77,72,56
+Low and middleincome,2006,5 362 213,63,41,85,77,72,56
+Low and middleincome,2007,5 438 769,64,41,85,77,73,57
+Low and middleincome,2008,5 515 978,64,41,85,77,73,57
+Low and middleincome,2009,5 595 139,65,42,85,77,74,58
+Low and middleincome,2010,5 675 456,66,43,85,77,75,59
+Low and middleincome,2011,5 765 997,66,44,85,77,75,59
+Low and middleincome,2012,5 847 780,67,45,85,78,76,60
+Low and middleincome,2013,5 930 138,68,46,85,78,76,61
+Low and middleincome,2014,6 011 577,69,47,85,78,77,61
+Low and middleincome,2015,6 091 556,70,47,85,78,77,62
+Low and middleincome,2016,6 170 919,70,48,86,78,78,63
+Low and middleincome,2017,6 251 050,71,49,86,78,78,64
+Low and middleincome,2018,6 330 087,72,50,86,78,79,64
+Low and middleincome,2019,6 406 420,73,51,86,79,79,65
+Low and middleincome,2020,6 479 125,74,52,86,79,80,66
+Low and middleincome,2021,6 545 471,75,53,86,79,80,66
+Low and middleincome,2022,6 607 116,75,54,86,79,81,67
+Low and middleincome,2023,6 670 598,76,55,86,79,81,67
+Low and middleincome,2024,6 737 263,77,59,86,79,81,69
+Lowincome,2000,  384 047,28,18,64,56,38,28
+Lowincome,2001,  394 449,28,18,64,56,38,29
+Lowincome,2002,  406 074,29,18,64,56,39,29
+Lowincome,2003,  418 174,30,19,64,56,40,29
+Lowincome,2004,  430 150,31,19,64,56,41,30
+Lowincome,2005,  442 566,32,20,64,56,41,30
+Lowincome,2006,  455 768,33,20,64,56,42,30
+Lowincome,2007,  469 163,34,20,64,56,43,31
+Lowincome,2008,  482 589,36,21,64,56,44,31
+Lowincome,2009,  496 341,37,21,64,56,45,32
+Lowincome,2010,  510 308,38,22,64,56,46,32
+Lowincome,2011,  534 809,39,22,64,56,47,32
+Lowincome,2012,  549 452,40,22,64,56,48,33
+Lowincome,2013,  563 527,41,23,64,56,48,33
+Lowincome,2014,  577 586,42,23,64,56,49,33
+Lowincome,2015,  592 175,43,23,65,56,50,34
+Lowincome,2016,  607 867,44,24,65,56,51,34
+Lowincome,2017,  624 557,46,24,65,56,52,34
+Lowincome,2018,  642 186,47,25,65,56,53,35
+Lowincome,2019,  660 718,48,25,66,56,54,35
+Lowincome,2020,  679 561,49,25,66,56,55,36
+Lowincome,2021,  698 215,50,26,66,56,56,36
+Lowincome,2022,  716 866,52,26,67,56,57,37
+Lowincome,2023,  736 466,53,27,67,56,58,37
+Lowincome,2024,  756 668,54,27,67,57,59,38
+Lowermiddleincome,2000,2 124 987,60,41,81,74,66,51
+Lowermiddleincome,2001,2 167 820,61,42,81,74,67,52
+Lowermiddleincome,2002,2 210 684,61,42,81,74,68,52
+Lowermiddleincome,2003,2 252 307,62,43,81,74,68,53
+Lowermiddleincome,2004,2 294 336,63,43,81,74,69,53
+Lowermiddleincome,2005,2 335 938,64,43,81,74,69,53
+Lowermiddleincome,2006,2 377 773,64,44,81,74,70,54
+Lowermiddleincome,2007,2 420 499,65,44,81,74,71,54
+Lowermiddleincome,2008,2 462 942,66,44,82,74,71,54
+Lowermiddleincome,2009,2 505 656,67,46,82,74,72,55
+Lowermiddleincome,2010,2 549 113,67,47,82,74,72,56
+Lowermiddleincome,2011,2 592 656,68,48,82,74,73,57
+Lowermiddleincome,2012,2 635 895,69,49,82,74,74,58
+Lowermiddleincome,2013,2 679 307,70,51,82,74,74,59
+Lowermiddleincome,2014,2 722 466,71,52,82,74,75,60
+Lowermiddleincome,2015,2 764 325,71,53,82,74,75,61
+Lowermiddleincome,2016,2 805 768,72,55,82,74,76,62
+Lowermiddleincome,2017,2 846 978,73,56,82,74,76,63
+Lowermiddleincome,2018,2 887 468,74,57,81,74,77,64
+Lowermiddleincome,2019,2 927 475,75,59,81,74,77,65
+Lowermiddleincome,2020,2 967 243,75,60,81,74,78,66
+Lowermiddleincome,2021,3 004 939,76,61,81,74,78,67
+Lowermiddleincome,2022,3 042 100,77,63,81,74,79,67
+Lowermiddleincome,2023,3 080 931,78,64,81,74,79,68
+Lowermiddleincome,2024,3 120 052,78,65,81,74,79,69
+Uppermiddleincome,2000,2 398 992,65,,89,81,77,70
+Uppermiddleincome,2001,2 421 771,65,,89,81,77,70
+Uppermiddleincome,2002,2 442 984,66,,89,81,77,71
+Uppermiddleincome,2003,2 463 787,67,,89,81,78,72
+Uppermiddleincome,2004,2 485 046,67,,89,81,79,72
+Uppermiddleincome,2005,2 506 714,68,,89,81,79,73
+Uppermiddleincome,2006,2 528 672,69,,89,81,80,73
+Uppermiddleincome,2007,2 549 108,70,,89,81,81,74
+Uppermiddleincome,2008,2 570 447,71,,89,81,81,74
+Uppermiddleincome,2009,2 593 141,71,,89,81,82,75
+Uppermiddleincome,2010,2 616 035,72,,89,81,82,75
+Uppermiddleincome,2011,2 638 533,73,,89,82,83,76
+Uppermiddleincome,2012,2 662 434,74,,90,82,83,76
+Uppermiddleincome,2013,2 687 304,75,,90,82,84,77
+Uppermiddleincome,2014,2 711 524,76,,90,83,84,77
+Uppermiddleincome,2015,2 735 055,77,,90,83,85,77
+Uppermiddleincome,2016,2 757 284,78,,90,83,86,78
+Uppermiddleincome,2017,2 779 515,79,,90,83,86,78
+Uppermiddleincome,2018,2 800 433,80,,91,84,87,79
+Uppermiddleincome,2019,2 818 227,81,,91,84,87,79
+Uppermiddleincome,2020,2 832 321,82,,91,84,88,79
+Uppermiddleincome,2021,2 842 317,83,,91,85,88,80
+Uppermiddleincome,2022,2 848 150,84,,91,85,89,80
+Uppermiddleincome,2023,2 853 201,85,51,91,85,89,74
+Uppermiddleincome,2024,2 860 544,85,62,91,85,89,78
+Highincome,2000,1 227 506,,,,96,,96
+Highincome,2001,1 233 882,,,,96,,96
+Highincome,2002,1 241 002,,,,96,,96
+Highincome,2003,1 248 317,,,,96,,96
+Highincome,2004,1 255 266,,,,96,,96
+Highincome,2005,1 262 350,,,,96,94,96
+Highincome,2006,1 269 616,,,,96,94,96
+Highincome,2007,1 278 042,,,,96,94,96
+Highincome,2008,1 287 114,,,,96,95,96
+Highincome,2009,1 295 424,,,,96,95,97
+Highincome,2010,1 303 171,,,96,96,95,97
+Highincome,2011,1 311 164,,,96,96,95,97
+Highincome,2012,1 319 250,,,96,96,95,97
+Highincome,2013,1 327 082,,,96,96,95,97
+Highincome,2014,1 335 091,,,96,96,95,97
+Highincome,2015,1 343 667,,,96,96,95,97
+Highincome,2016,1 352 170,,,96,97,95,97
+Highincome,2017,1 359 271,,,96,97,95,97
+Highincome,2018,1 365 261,,,96,97,96,97
+Highincome,2019,1 371 187,,,96,97,96,97
+Highincome,2020,1 374 663,,,96,97,96,97
+Highincome,2021,1 375 961,,,96,97,96,97
+Highincome,2022,1 381 312,,,96,97,96,97
+Highincome,2023,1 388 068,,,96,97,96,97
+Highincome,2024,1 391 523,,,96,97,96,97
 WORLD,2000,6 162 489,61,42,89,83,74,61
 WORLD,2001,6 245 362,61,42,88,83,74,61
 WORLD,2002,6 328 670,62,42,88,83,75,62
