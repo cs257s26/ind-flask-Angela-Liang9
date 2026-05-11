@@ -2,7 +2,7 @@ DROP TABLE IF EXISTS water_country;
 CREATE TABLE water_country (
     country TEXT,
     year SMALLINT,
-    population INTEGER,
+    population(thousands) INTEGER,
     rural_available REAL,
     rural_contam_free REAL,
     urban_available REAL,
@@ -15,7 +15,7 @@ DROP TABLE IF EXISTS water_region;
 CREATE TABLE water_region (
     country TEXT,
     year SMALLINT,
-    population INTEGER,
+    population(thousands) INTEGER,
     rural_available REAL,
     rural_contam_free REAL,
     urban_available REAL,

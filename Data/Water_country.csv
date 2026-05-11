@@ -1,7 +1,4 @@
-﻿DRINKING WATER,,,,,,,,
-"COUNTRY, AREA OR TERRITORY",,,RURAL,,URBAN,,TOTAL,
-,Year,"Population 
-(thousands)",Available when needed,Free from contamination,Available when needed,Free from contamination,Available when needed,Free from contamination
+﻿"COUNTRY, AREA OR TERRITORY",Year,"Population (thousands)",RURAL Available when needed,RURAL Free from contamination,URBAN Available when needed,URBAN Free from contamination,TOTAL Available when needed,TOTAL Free from contamination
 Afghanistan,2000,   20 130,13,9,26,22,16,12
 Afghanistan,2001,   20 284,13,9,26,22,16,12
 Afghanistan,2002,   21 378,15,10,27,23,17,13

@@ -1,7 +1,4 @@
-﻿DRINKING WATER,,,,,,,,
-,,,RURAL,,URBAN,,TOTAL,
-"COUNTRY, AREA OR TERRITORY",Year,"Population 
-(thousands)",Available when needed,Free from contamination,Available when needed,Free from contamination,Available when needed,Free from contamination
+﻿"COUNTRY, AREA OR TERRITORY",Year,"Population (thousands)", RURAL Available when needed,RURAL Free from contamination,URBAN Available when needed, URBAN Free from contamination,TOTAL Available when needed, TOTAL Free from contamination
 Australia and New Zealand,2000,   22 990,,,,100,90,
 Australia and New Zealand,2001,   23 257,,,,100,91,
 Australia and New Zealand,2002,   23 546,,,,100,91,
